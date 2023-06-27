@@ -1,0 +1,5 @@
+close
+cd C:\Users\Chelsea\Documents\Mol\mol-data\
+open 1fkb.pdb
+open test.bild
+save test.glb center false textureColors true

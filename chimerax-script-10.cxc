@@ -1,0 +1,6 @@
+close
+cd C:\Users\Chelsea\Documents\Mol\mol-data\
+open 1fkb.pdb
+open 
+move x -30 models #1
+save test_10.glb center false textureColors true
